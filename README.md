@@ -1,8 +1,8 @@
-## Hey yo, Gustavo here!
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
+## Salve salve devs 👋🏻
+## 🔥 Habilidades
+<!-- Habilidades: Linguagens de Programação -->
   <div style="flex-basis: 48%;">
-    <h3>Programming Languages</h3>
+    <h3>Linguagens de Programação</h3>
     <div style="display: inline_block"><br>
       <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
       <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -12,9 +12,9 @@
       <a href="https://beacons.ai/SirGusttavo"></a>
     </div>
   </div>
-<!-- Skills: Tools & Frameworks -->
+<!-- Habilidades: Ferramentas & Softwares -->
   <div style="flex-basis: 48%;">
-    <h3>Tools & Frameworks</h3>
+    <h3>Ferramentas & Softwares</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
   
