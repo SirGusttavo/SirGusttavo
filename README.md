@@ -18,8 +18,10 @@
   </div>
 <!-- Habilidades: Ferramentas & Softwares -->
   <div style="flex-basis: 48%;">
-    <h3>Ferramentas & Softwares</h3>
-    <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<h3>Ferramentas & Softwares</h3>
+<img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img align="center" alt="Oracle VirtualBox" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Virtualbox_logo.png">
+<img align="center" alt="Eclipse IDE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg">
   </div>
   
 ##
