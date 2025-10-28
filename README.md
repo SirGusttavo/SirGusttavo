@@ -5,7 +5,7 @@ Também tenho noções de **JavaScript**, **HTML** e **CSS**, buscando sempre me
 
 ---
 
-## 🔥 Habilidades
+## 🔥 Skills
 
 <!-- Linguagens de Programação -->
 <div style="flex-basis: 48%;">
@@ -32,6 +32,17 @@ Também tenho noções de **JavaScript**, **HTML** e **CSS**, buscando sempre me
 
   </div>
 </div>
+
+---
+
+## 💯 Code Stats  
+
+<a href="https://github.com/SirGusttavo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SirGusttavo&theme=dark" />
+</a>
+<a href="https://github.com/SirGusttavo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SirGusttavo&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
