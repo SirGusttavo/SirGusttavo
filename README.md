@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&pause=900&color=36BCF7&center=true&vCenter=true&width=700&height=70&lines=Gustavo+Morais" alt="Gustavo Morais" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=76&lines=Hello+World!" alt="Hello World!" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1200&color=9CA3AF&center=true&vCenter=true&width=700&height=32&lines=BUILD+%C2%B7+DEBUG+%C2%B7+IMPROVE;CODE+WITH+PURPOSE" alt="Build · Debug · Improve — Code with purpose" />
 
@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-morais-372620321)
 [![Email](https://img.shields.io/badge/Email-795548?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavo28.morais@gmail.com)
-[![GitHub](https://img.shields.io/badge/Featured_Project-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirGusttavo/python_automation_process)
+[![Projects](https://img.shields.io/badge/Explore_Projects-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SirGusttavo?tab=repositories)
 
 </div>
 
@@ -53,17 +53,48 @@ while life.is_running():
 
 ---
 
+### <div align="center">🛠️ What I Build</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚙️ Automation
+Process automation and system integration.
+
+</td>
+<td width="33%" align="center">
+
+### 📊 Data
+Data extraction, processing and analysis.
+
+</td>
+<td width="33%" align="center">
+
+### 💻 Development
+Python applications and back-end foundations.
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
 ### 🚀 Featured Project
 
 <a href="https://github.com/SirGusttavo/python_automation_process">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SirGusttavo&repo=python_automation_process&theme=github_dark&hide_border=true" alt="FLOW — Python Automation Process" />
+  <img src="https://img.shields.io/badge/FLOW-Python_Automation_Process-161B22?style=for-the-badge&logo=github&logoColor=36BCF7" height="38" alt="FLOW — Python Automation Process" />
 </a>
 
-[![Explore FLOW](https://img.shields.io/badge/EXPLORE_FLOW-36BCF7?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/SirGusttavo/python_automation_process)
+<p><strong>6 automation modules</strong> · Desktop apps · SAP integration · Web automation · Data processing</p>
 
-<br/>
+<a href="https://github.com/SirGusttavo/python_automation_process">
+  <img src="https://img.shields.io/badge/VIEW_REPOSITORY-36BCF7?style=for-the-badge&logo=github&logoColor=0D1117" alt="View repository" />
+</a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:36BCF7&height=100&section=footer" width="100%" alt="" />
 
