@@ -14,15 +14,37 @@
 
 ---
 
-## 👋 Olá! Eu sou Gustavo
+### `profile.py`
 
 ```python
-gustavo = {
-    "área": "Desenvolvimento de software",
-    "foco": ["Python", "Automação", "Tratamento de dados"],
-    "objetivo": "Desenvolvimento back-end",
-    "mentalidade": "Aprender, construir e melhorar continuamente"
-}
+class Developer:
+    def __init__(self):
+        self.name = "Gustavo Morais"
+        self.role = "Software Developer in Training"
+        self.degree = "Data Science"
+
+        self.main_stack = {
+            "language": "Python",
+            "automation": ["Selenium", "SAP GUI Scripting"],
+            "data": ["Pandas", "Excel"],
+            "desktop": ["Tkinter", "PyWin32"]
+        }
+
+        self.current_focus = [
+            "Back-end Development",
+            "Databases",
+            "Software Architecture"
+        ]
+
+    def build(self, problem):
+        solution = analyze(problem)
+        return develop(solution)
+
+    def mindset(self):
+        return "Turning problems into practical solutions."
+
+
+me = Developer()
 ```
 
 Desenvolvo soluções em **Python** voltadas à automação de processos, integração de sistemas e tratamento de dados. Tenho experiência prática na criação de aplicações desktop, automação de interfaces e processamento de informações para tornar rotinas mais eficientes e confiáveis.
